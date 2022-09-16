@@ -1,4 +1,4 @@
-ADDENDUM: Given that Git cannot dectect certain subtle changes in the data structure of the Perforce DVCS folder, I have moved hosted the folder over on my drive here (https://drive.google.com/drive/folders/1Gjy7l_WqDH27ypSauU9AJ3bZC76CcHc1?usp=sharing) instead.
+ADDENDUM: Given that Git cannot dectect certain subtle changes in the data structure of the Perforce DVCS folder, I have moved hosted the folder over on my drive here (https://drive.google.com/drive/folders/14NQPpygYqiY5rlI2XJMIYpE_nNA-XUiG?usp=sharing) instead.
 
 # Brandons-Better-Conan
 The Official Repository of the Brandon's Better Conan series of Mods
