@@ -1,0 +1,36 @@
+head     1.3;
+access   ;
+symbols  ;
+locks    ;comment  @@;
+
+
+1.3
+date     2022.04.20.16.51.42;  author p4;  state Exp;
+branches ;
+next     ;
+
+
+desc
+@@
+
+
+1.3
+log
+@@
+text
+@{
+	"name": "BBC_AdminItems",
+	"description": "A simple mod that adds 6 different gemstones to the game with no real purpose other than to be used by admins for various purposes. More items will ultimately be added to this mod.\nThese gems currently have no functionality besides serving as potential quest items for server admins.",
+	"changeNote": "",
+	"author": "Brandon Snider (a.k.a. The 7th Crest)",
+	"authorUrl": "www.legendarygameworks.com",
+	"versionMajor": 0,
+	"versionMinor": 5,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "2796206654",
+	"steamVisibility": 0,
+	"folderName": "BBC_AdminItems",
+	"revisionNumber": 348928,
+	"snapshotId": 32447
+}@

@@ -1,0 +1,36 @@
+head     1.11;
+access   ;
+symbols  ;
+locks    ;comment  @@;
+
+
+1.11
+date     2022.09.08.18.56.18;  author p4;  state Exp;
+branches ;
+next     ;
+
+
+desc
+@@
+
+
+1.11
+log
+@@
+text
+@{
+	"name": "BBC_AdminTools",
+	"description": "",
+	"changeNote": "",
+	"author": "",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "",
+	"steamVisibility": 2,
+	"folderName": "BBC_AdminTools",
+	"revisionNumber": 0,
+	"snapshotId": 0
+}@

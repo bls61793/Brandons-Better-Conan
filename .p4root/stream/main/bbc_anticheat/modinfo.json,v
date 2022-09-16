@@ -1,0 +1,36 @@
+head     1.3;
+access   ;
+symbols  ;
+locks    ;comment  @@;
+
+
+1.3
+date     2022.04.20.16.51.42;  author p4;  state Exp;
+branches ;
+next     ;
+
+
+desc
+@@
+
+
+1.3
+log
+@@
+text
+@{
+	"name": "BBC_AntiCheat",
+	"description": "",
+	"changeNote": "",
+	"author": "",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "",
+	"steamVisibility": 2,
+	"folderName": "BBC_AntiCheat",
+	"revisionNumber": 0,
+	"snapshotId": 0
+}@

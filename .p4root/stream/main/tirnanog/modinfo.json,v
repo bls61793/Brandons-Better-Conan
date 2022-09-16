@@ -1,0 +1,36 @@
+head     1.3;
+access   ;
+symbols  ;
+locks    ;comment  @@;
+
+
+1.3
+date     2022.04.20.16.51.44;  author p4;  state Exp;
+branches ;
+next     ;
+
+
+desc
+@@
+
+
+1.3
+log
+@@
+text
+@{
+	"name": "The_Isle_of_Tir-na-nOg",
+	"description": "Total Conan Vanilla map rebuild:\n- many deserts turned into Savannah or even greener\n- The Nameless City is like an overgrown jungle city\n- Map will suggest this land is an Island\n- New areas: in the North East and in the South\n- Designed to work with its sister project: the Underdark\n- Map with regions to support conquest scenarios included",
+	"changeNote": "",
+	"author": "",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "2241631223",
+	"steamVisibility": 2,
+	"folderName": "The_Isle_of_Tir-na-nOg",
+	"revisionNumber": 255795,
+	"snapshotId": 26931
+}@

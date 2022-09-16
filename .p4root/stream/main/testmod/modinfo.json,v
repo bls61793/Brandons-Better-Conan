@@ -1,0 +1,31 @@
+head     1.3;
+access   ;
+symbols  ;
+locks    ;comment  @@;
+
+
+1.3
+date     2022.04.20.16.51.42;  author p4;  state Exp;
+branches ;
+next     ;
+
+
+desc
+@@
+
+
+1.3
+log
+@@
+text
+@{
+    "Name": "Test Mod",
+    "Description": "This an empty test mod.  You can use it for experimenting with things, but you should create a new mod (and give it a good unique name) before you start working on something you want to distribute.",
+    "Author": "",
+    "AuthorUrl": "",
+    "VersionMajor": 0,
+    "VersionMinor": 0,
+    "VersionBuild": 1,
+    "LoadOnStartup": 0,
+    "RequiresLoadOnStartup": 0
+}@
