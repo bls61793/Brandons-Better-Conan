@@ -17,7 +17,7 @@ to use, copy, modify, merge, publish, distribute, and to permit persons to whom 
 furnished to do so, subject to the following conditions:
 
 -You may not use art, sound, or special effect assets in Content for any commercial purpose. Nor may it be used for a non-commercial purpose without attributing Content.
--You do not retain the right to, and may not attempt to, sublicense the content. The copyright holder, Brandon Snider, retains the exclusive right to license. Furthermore, this content shall only be distributed with this license. Which is freely available.
+-You do not retain the right to, and may not attempt to, sublicense the Content. The copyright holder, Brandon Snider, retains the exclusive right to license. Furthermore, this content shall only be distributed with this license. Which is freely available.
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Content.
