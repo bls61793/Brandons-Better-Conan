@@ -1,3 +1,5 @@
+ADDENDUM: Given that Git cannot dectect certain subtle changes in the data structure of the Perforce DVCS folder, I have moved hosted the folder over on my drive here (https://drive.google.com/drive/folders/1Gjy7l_WqDH27ypSauU9AJ3bZC76CcHc1?usp=sharing) instead.
+
 # Brandons-Better-Conan
 The Official Repository of the Brandon's Better Conan series of Mods
 
@@ -11,7 +13,7 @@ This repository is meant as a housing for a DVCS perforce instance that contains
 Copyright (c) 2022 Brandon L. Snider (bls61793@gmail.com) Cornelius, N.C. 28031
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this content, digital assets, .uasset files, code files, and all other relevant files (the "Content"), to deal
+of this content, digital assets, .uasset files, code files, and all other relevant files (henceforth, the "Content"), to deal
 in the Content without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, and to permit persons to whom the Content is
 furnished to do so, subject to the following conditions:
@@ -30,3 +32,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 "
+
