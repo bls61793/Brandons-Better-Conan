@@ -1,3 +1,5 @@
+ADDENDUM 2: Given certain compatability issues using Git (Github) and Perforce Distributed Versioning (DVCS) together--and the fact that I am no longer actively working on any of these projects--all source and assets for each mod have been added to the repository in the simple form of a Dev Kit Mod folder.
+
 ADDENDUM: Given that Git cannot dectect certain subtle changes in the data structure of the Perforce DVCS folder, I have moved hosted the folder over on my drive here (https://drive.google.com/drive/folders/14NQPpygYqiY5rlI2XJMIYpE_nNA-XUiG?usp=sharing) instead.
 
 # Brandons-Better-Conan
