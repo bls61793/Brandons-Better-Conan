@@ -1,0 +1,18 @@
+{
+	"name": "Brandon's Better Conan: SafeZones",
+	"description": "Latest Version 0.6.8\n\nThis mod contains an admin spawnable \"SafeZone\" placabe which protects players, thralls, and placables within them from siege damage , blocks projectiles from the outside, and banishes avatars that come into contact with it.\n\nThis mod is stable, but a work in progress. Currently the placeable Safe Zone is a 50x sized Sphere that is essentially a permanent God Bubble - Plus. More work needs to be done to make a UI through which an admin can adjust the zone at runtime.\n\nFuture Roadmap: \n1. Make a configuration UI for the zone with the following options:\n-Protect Players\n-Protect Thralls in the volume\n-Protect Buildings in the volume\n-Allow Drowning in the volume\n-Allow Fall Damage in the volume\n\n2. Add new options for hiding or changing the safe zone's visuals. Add these to the config GUI.\n\nKnown Issues:\n1. God Mode state gets turned off every 30 seconds while using this mod. (0.6.4) Will be fixed in a new update coming ASAP.",
+	"changeNote": "-Resolved an issue where the ModController's anti-cheat safety check was accidentally disabling God mode on admins outside of the safe zone.",
+	"author": "Brandon Snider (The 7th Crest)",
+	"authorUrl": "www.legendarygameworks.com",
+	"versionMajor": 0,
+	"versionMinor": 6,
+	"versionBuild": 8,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "2796149314",
+	"steamTestLivePublishedFileId": "2857024190",
+	"steamVisibility": 0,
+	"folderName": "BBC-SafeZones",
+	"revisionNumber": 408177,
+	"snapshotId": 34671,
+	"fileSize": -2
+}
