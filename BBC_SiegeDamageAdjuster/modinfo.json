@@ -1,0 +1,18 @@
+{
+	"name": "Brandon's Better Conan: Siege Damage Adjuster ",
+	"description": "BETA-0.9.5\nPlease send all feedback to me on steam at The 7th Crest, or on Discord at The 7th Crest#9918.\nCheck out the Mod Discord: https://discord.gg/bzx3nGpz\n\nThis mod is intended to give server owners granular control over the damage done by siege weapons such as Jars, Trebuchets, Orbs, and Special Ammunition.\n\nThis mod",
+	"changeNote": "-Changed BBCBaseFireDamage from 50 to 100 to account for Funcom's increase of demon-fire orb base damage from 500 damage to 1000\n-Changerd BBC_BP_Orb_Effect_GroundFire to scale with the new Demonfire Orb Adjustment made by Funcom in 3.0\n-Changed BBC_BP_OrbEffect_Combo_LargeFire to similary scale to adjustments made by Funcoim\n-Rebuild for CE3.0",
+	"author": "Brandon Snider (a.k.a. The 7th Crest)",
+	"authorUrl": "www.legendarygameworks.com",
+	"versionMajor": 0,
+	"versionMinor": 9,
+	"versionBuild": 5,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "2787401041",
+	"steamTestLivePublishedFileId": "2857324751",
+	"steamVisibility": 0,
+	"folderName": "BBC_SiegeDamageAdjuster",
+	"revisionNumber": 408177,
+	"snapshotId": 34671,
+	"fileSize": -2
+}
