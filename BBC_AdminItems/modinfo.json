@@ -1,0 +1,18 @@
+{
+	"name": "Brandon's Better Conan: AdminItems",
+	"description": "A simple mod that adds 6 different gemstones to the game with no real purpose other than to be used by admins for various purposes. More items will ultimately be added to this mod.\\nThese gems currently have no functionality besides serving as potential quest items for server admins.",
+	"changeNote": "Rebuild for Compatability with CE 3.0 Update",
+	"author": "Brandon Snider (a.k.a. The 7th Crest)",
+	"authorUrl": "www.legendarygameworks.com",
+	"versionMajor": 0,
+	"versionMinor": 6,
+	"versionBuild": 2,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "2796206654",
+	"steamTestLivePublishedFileId": "2857347937",
+	"steamVisibility": 0,
+	"folderName": "BBC_AdminItems",
+	"revisionNumber": 408177,
+	"snapshotId": 34671,
+	"fileSize": -2
+}
